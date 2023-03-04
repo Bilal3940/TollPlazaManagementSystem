@@ -1,0 +1,18 @@
+
+Name:Bilal
+CNIC:234567
+Phone Number:34567
+Vehicle Name: Honda
+Vehicle Number: 1234
+Vehicle Model: 2020
+Category: CarRs. 50
+Category: Armed Forces, Rate Rs. 15
+
+Name:Bilal
+CNIC:235677
+Phone Number:345677
+Vehicle Name: onda
+Vehicle Number: 246
+Vehicle Model: 3546
+Category: Car Rs. 50
+Category: None of above, Rate Rs. 0
